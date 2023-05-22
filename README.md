@@ -1,6 +1,6 @@
 # Leaflet-Challenge
 
-# Snapshot of the results :
+### Snapshot of the results :
 
 ![result-image1](https://github.com/Martinezj93/Leaflet-Challenge/assets/89439553/1762904c-a77d-46ce-964e-604f5f7bdee1)
 ![result-image2](https://github.com/Martinezj93/Leaflet-Challenge/assets/89439553/f8af6d75-7bba-4784-a153-6c110e4ff11d)
